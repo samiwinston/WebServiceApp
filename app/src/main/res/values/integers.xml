@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer name="plcHRegRef1">7474</integer>
+    <integer name="plcHRegRef2">7484</integer>
+    <integer name="plcHRegRef3">7494</integer>
+    <integer name="plcHRegRef4">7504</integer>
+
+    <integer name="startCoilRef">34</integer>
+    <integer name="lockoutCoilRef">35</integer>
+
+
+   <!-- Register 7474  - >  Terminal 1
+    Register 7484  - >  Terminal 2
+    Register 7494 - >   Terminal 3
+    Register 7504 - >  Terminal 4-->
+
+</resources>

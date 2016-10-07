@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Woosh Plc</string>
+    <string name="login">LOG IN</string>
+    <string name="action_settings">Get XML</string>
+    <string name="action_data">Get Plc Test</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="wash_init_view_title"></string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="wash_input_hint">Enter Wash Order</string>
+
+    <string name="checkUserDev">http://10.0.0.2:8080/WooshServer/mvc/checkUser</string>
+    <string name="checkUserProd">http://codefishserver.com:8282/WooshServer/mvc/checkUser</string>
+    <string name="getWashCodesDev">http://10.0.0.2:8080/WooshServer/mvc/getWashHexCodes</string>
+    <string name="getWashCodesProd">http://codefishserver.com:8282/WooshServer/mvc/getWashHexCodes</string>
+
+    <string name="postLogDataDev">http://10.0.0.2:8080/WooshServer/mvc/saveLog</string>
+    <string name="postLogDataProd">http://codefishserver.com:8282/WooshServer/mvc/saveLog</string>
+
+    <string name="setWashOrderToWashedDev">http://10.0.0.2:8080/WooshServer/mvc/setWashOrderToWashed</string>
+    <string name="setWashOrderToWashedProd">http://codefishserver.com:8282/WooshServer/mvc/setWashOrderToWashed</string>
+
+    <string name="isWashOrderWashedDev">http://10.0.0.2:8080/WooshServer/mvc/isWashOrderWashed</string>
+    <string name="isWashOrderWashedProd">http://codefishserver.com:8282/WooshServer/mvc/isWashOrderWashed</string>
+
+    <string name="plcAddressDev">10.0.0.104</string>
+    <string name="plcAddressDevLcl">127.0.0.1</string>
+    <string name="plcAddressDevAtlanta">66.216.33.162</string>
+    <string name="plcAddressProd">192.168.1.141</string>
+    <string name="plcAddressExterProd">80.89.191.43</string>
+
+
+</resources>
